@@ -34,8 +34,6 @@ Data Visualization - Power BI and Excel">
 <html>
 <head>
 <!-- HTML Codes by Quackit.com -->
-<title>
-</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
@@ -59,3 +57,7 @@ Data Visualization - Power BI and Excel">
 <p>Based on the dataset, it seems that updates for the data were discontinued at the beginning of Quarter 3, 2005. </p>
 </body>
 </html>
+
+![RFMTreemap](https://github.com/raventheanalyst/RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI/assets/128438737/74a74fe1-7e97-4337-9cde-9fad77df93d4)
+![RFMTable](https://github.com/raventheanalyst/RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI/assets/128438737/86b443e6-baa2-44b2-ad6e-78009f6aa41b)
+
