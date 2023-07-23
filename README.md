@@ -4,8 +4,6 @@
 <html>
 <head>
 <!-- HTML Codes by Quackit.com -->
-<title>
-</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
@@ -17,8 +15,6 @@
 <html>
 <head>
 <!-- HTML Codes by Quackit.com -->
-<title>
-</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Data  - Company Sales Data with over 2000 rows from the year 2003-2005
 Data Cleaning & Exploratory Data Analysis - Excel
