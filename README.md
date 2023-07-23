@@ -43,7 +43,7 @@ Data Visualization - Power BI and Excel">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-<h1>Summary of EDA Findings</h1>
+<h1>Summary of Exploratory Data Analysis Findings</h1>
 <p>• The Classic Car product line had the most sales while the Trains product line had the least amount of sales.</p>
 <p>• The average sales across all regions were fairly balanced. Japan recorded the highest average sales, whereas the Asia-Pacific Region exhibits the lowest average sales. </p>
 <p>•The Classic Car product accounts for the largest share, representing 39% of the total revenue.</p>
