@@ -7,11 +7,6 @@
 <title>
 </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
-</style>
 </head>
 <body>
 <h1></h1>
@@ -29,11 +24,6 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 Data Cleaning & Exploratory Data Analysis - Excel
 Data Cleaning & RFM Analysis Customer Segmentation - SQL 
 Data Visualization - Power BI and Excel">
-<style>
-body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
-</style>
 </head>
 <body>
 <h1>Data Used</h1>
@@ -41,5 +31,23 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 <p>Data Cleaning & Exploratory Data Analysis - Excel</p>
 <p>Data Cleaning & RFM Analysis Customer Segmentation - SQL </p>
 <p>Data Visualization - Power BI and Excel</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- HTML Codes by Quackit.com -->
+<title>
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<h1>Summary of EDA Findings</h1>
+<p>• The Classic Car product line had the most sales while the Trains product line had the least amount of sales.</p>
+<p>• The average sales across all regions were fairly balanced. Japan recorded the highest average sales, whereas the Asia-Pacific Region exhibits the lowest average sales. </p>
+<p>•The Classic Car product accounts for the largest share, representing 39% of the total revenue.</p>
+<p>•Quarter 4 of 2005 had the highest sales, whereas Quarter 2 of 2003 had the lowest sales. Both Quarter 4 of 2003 and Quarter 4 of 2004 surpassed $1.5 million in sales. The highest for any quarter.</p>
+<p>•I am curious about whether Quarter 4 of 2005 would have surpassed $1.5 million in sales or even exceeded the $2 million achieved in Quarter 4 of 2004, had they continued to collect data for that period. </p>
 </body>
 </html>
