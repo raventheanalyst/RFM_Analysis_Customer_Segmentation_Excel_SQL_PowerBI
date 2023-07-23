@@ -47,3 +47,15 @@ Data Visualization - Power BI and Excel">
 <p>•I am curious about whether Quarter 4 of 2005 would have surpassed $1.5 million in sales or even exceeded the $2 million achieved in Quarter 4 of 2004, had they continued to collect data for that period. </p>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<!-- HTML Codes by Quackit.com -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<h1>Limitations</h1>
+<p>Based on the dataset, it seems that updates for the data were discontinued at the beginning of Quarter 3, 2005. </p>
+</body>
+</html>
