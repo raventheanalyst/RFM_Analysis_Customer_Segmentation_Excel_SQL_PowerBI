@@ -65,7 +65,6 @@ Data Visualization - Power BI and Excel">
 </head>
 <body>
 <h1>RFM (Recency, Frequency, Monetary) Analysis and Customer Segmentation</h1>
-<p>Based on the dataset, it seems that updates for the data were discontinued at the beginning of Quarter 3, 2005. </p>
 </body>
 </html>
 
