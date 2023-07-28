@@ -16,7 +16,7 @@
 <head>
 <!-- HTML Codes by Quackit.com -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Data  - Company Sales Data with over 2000 rows from the year 2003-2005
+<meta name="description" content="Data  - Company Sales Data from the year 2003-2005
 Data Cleaning & Exploratory Data Analysis - Excel
 Data Cleaning & RFM Analysis Customer Segmentation - SQL 
 Data Visualization - Power BI and Excel">
