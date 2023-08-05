@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>RFM Analysis & Customer Segmentation Power BI Dashboard</h1>
+<p></p>
+</body>
+</html>
+
 ![RFM Analysis Screenshot - Power Bi](https://github.com/raventheanalyst/RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI/assets/128438737/e88ec368-9a9b-43a6-824b-f72516cb544b)
 
 
