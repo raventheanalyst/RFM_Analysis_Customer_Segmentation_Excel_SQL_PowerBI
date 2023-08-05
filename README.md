@@ -10,20 +10,6 @@
 
 ![RFM Analysis Screenshot - Power Bi](https://github.com/raventheanalyst/RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI/assets/128438737/e88ec368-9a9b-43a6-824b-f72516cb544b)
 
-
-
-![EDASalesDataExcel](https://github.com/raventheanalyst/RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI/assets/128438737/1aac046b-e8bf-40bd-8aad-685b48a0c31b)
-<!DOCTYPE html>
-<html>
-<head>
-<!-- HTML Codes by Quackit.com -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-<h1></h1>
-<p>Main purpose of this EDA is to visualize our data so far, calculate basic statistics, identify patterns and trends, and understand the structure of the dataset. This will help gain a sense of the data’s distribution, relationship between variables, and potential outliers. </p>
-</body>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -42,6 +28,19 @@ Data Visualization - Power BI and Excel">
 <p>Data Visualization - Power BI and Excel</p>
 </body>
 </html>
+
+![EDASalesDataExcel](https://github.com/raventheanalyst/RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI/assets/128438737/1aac046b-e8bf-40bd-8aad-685b48a0c31b)
+<!DOCTYPE html>
+<html>
+<head>
+<!-- HTML Codes by Quackit.com -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<h1></h1>
+<p>Main purpose of this EDA is to visualize our data so far, calculate basic statistics, identify patterns and trends, and understand the structure of the dataset. This will help gain a sense of the data’s distribution, relationship between variables, and potential outliers. </p>
+</body>
+
 
 <!DOCTYPE html>
 <html>
