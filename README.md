@@ -1,3 +1,6 @@
+![RFM Analysis Screenshot - Power Bi](https://github.com/raventheanalyst/RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI/assets/128438737/e88ec368-9a9b-43a6-824b-f72516cb544b)
+
+
 
 ![EDASalesDataExcel](https://github.com/raventheanalyst/RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI/assets/128438737/1aac046b-e8bf-40bd-8aad-685b48a0c31b)
 <!DOCTYPE html>
