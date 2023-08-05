@@ -29,6 +29,22 @@ Data Visualization - Power BI and Excel">
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Summary of RFM Analysis and Customer Segmentation & Findings </h1>
+<p>→ RFM is a marketing tool and customer segmentation technique that is used by businesses to understand and categorize their customers based on three key factors: Recency (how recent a customer made a purchase or interacted with the business), Frequency (how often a customer engages with the business, makes a purchase, or uses its services), Monetary (total amount of money a customer has spent on the business's product or services). By analyzing these 3 dimensions, businesses can segment their customer base into distinct groups, allowing them to tailor marketing strategies and approaches to each group more effectively. </p>
+<p></p>
+<p>• In 2005, both total revenue and product line sales reached their lowest point. </p>
+<p>• In 2004, both total revenue and sales for each product line reached their highest point.</p>
+<p>• Classic Cars experienced the highest number of sales compared to other product lines.</p>
+<p>• Euro Shopping Center is the top customer with the highest total purchase amount. </p>
+<p></p>
+</body>
+</html>
+
 ![EDASalesDataExcel](https://github.com/raventheanalyst/RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI/assets/128438737/1aac046b-e8bf-40bd-8aad-685b48a0c31b)
 <!DOCTYPE html>
 <html>
