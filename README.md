@@ -1,4 +1,4 @@
-# RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI
+
 ![EDASalesDataExcel](https://github.com/raventheanalyst/RFM_Analysis_Customer_Segmentation_Excel_SQL_PowerBI/assets/128438737/1aac046b-e8bf-40bd-8aad-685b48a0c31b)
 <!DOCTYPE html>
 <html>
